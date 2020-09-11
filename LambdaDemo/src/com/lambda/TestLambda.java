@@ -6,6 +6,9 @@ import java.sql.Array;
 import java.util.*;
 
 public class TestLambda {
+    public static void main(String[] args) {
+        System.out.println("xiaogu");
+    }
     //原来的匿名内部类
     @Test
     public void test1(){
